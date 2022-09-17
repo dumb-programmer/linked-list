@@ -1,0 +1,23 @@
+{
+  "name": "linked-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "linkedList.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dumb-programmer/linked-list.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dumb-programmer/linked-list/issues"
+  },
+  "homepage": "https://github.com/dumb-programmer/linked-list#readme",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
